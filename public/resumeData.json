@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Always learning. Here's my progress so far!",
+    "skillmessage":"Always learning! Check out my progress so far:",
     "education":[
       {
         "school":"Illinois State University",
@@ -45,7 +45,7 @@
       },
       {
         "school":"Illinois State University",
-        "degree":"Psychology",
+        "degree":"B.S. Psychology",
         "graduated":"December 2006",
         "description":"GPA 3.4/4.0, Departmental Honours"
       }
@@ -55,19 +55,19 @@
         "company":"Cisco Systems (contractor)",
         "title":"Technical Project Manager",
         "years":"June 2014 - December 2017",
-        "description":"Wearer of many hats, notably: Program Manager for Cisco Global Events software migration, Solution Architect, Lead/Mentor for junior team members "
+        "description":"Wearer of many hats, notably: program management for Cisco Global Events software migration, solution architecture, team lead/mentor"
       },
       {
         "company":"ITN International ",
         "title":"Senior Project Manager",
         "years":"August 2013 - May 2014",
-        "description":"Managed software build, implementation, and onsite execution of corporate events for large corporate conferences."
+        "description":"Managing software build, implementation, and onsite execution of corporate events for large corporate conferences."
       },
       {
         "company":"Lanyon ",
         "title":"Business Analyst",
         "years":"May 2012 - July 2013",
-        "description":"Worked with clients and internal devleopment teams to configure and build custom software solutions for large corporate conferences (1.5-30k attendees). "
+        "description":"Working with clients and internal devleopment teams to configure and build custom software solutions for large corporate conferences (1.5k-30k attendees). "
       }
     ],
     "skills":[
@@ -85,11 +85,11 @@
       },
       {
         "name":"CSS",
-        "level":"25%"
+        "level":"20%"
       },
       {
         "name":"HTML5",
-        "level":"25%"
+        "level":"20%"
       },
       {
         "name":"Javascript",
@@ -97,7 +97,7 @@
       },
       {
         "name":"Photoshop/Illustrator",
-        "level":"40%"
+        "level":"20%"
       }
     ]
   },
