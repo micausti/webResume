@@ -58,15 +58,15 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'fairplex-wide', serif;
-   color: #fff;
+   font: 9px/1.1em 'fairplex-wide', serif;
+   color: #eea994;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'fairplex-wide', serif;
-   color: #A8A8A8;
+   color: #fff1c4;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #fff1c4;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #fde64b; }
 
 
 /* ------------------------------------------------------------------ */
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #eea994;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #605e5e;
 }
 #about .profile-pic {
    position: relative;
@@ -216,14 +216,14 @@ ul#nav li.current a { color: #F06000; }
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
+#about .main-col { padding-right: 0%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #605e5e;
 }
 #about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
+   background: #fff1c4;
+   color: #605e5e;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -251,7 +251,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #8093b0;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -264,11 +264,11 @@ ul#nav li.current a { color: #F06000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #8093b0;
 }
 #resume .info {
    font: 16px/24px 'fairplex-wide', serif;
-   color: #6E7881;
+   color: #8093b0;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -304,7 +304,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'fairplex-wide', serif;
-   color: #313131;
+   color: #eea994;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #8093b0;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #eea994;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -427,7 +427,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #fff;
 }
 
 /* Portfolio Content */
@@ -794,10 +794,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #8093b0;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #fff1c4;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -805,7 +805,7 @@ call-to-action .button {
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 18px/24px fairplex-wide', serif;
+   font: 18px/24px 'fairplex-wide', serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
@@ -813,7 +813,7 @@ call-to-action .button {
 }
 #contact h1 span { display: none; }
 #contact h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'fairplex-wide', serif;
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;
@@ -840,7 +840,7 @@ call-to-action .button {
 #contact label {
    font: 15px/24px fairplex-wide', serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #fff1c4;
 	display: inline-block;
 	float: left;
    width: 26%;
@@ -849,8 +849,8 @@ call-to-action .button {
 #contact textarea,
 #contact select {
    padding: 18px 20px;
-	color: #eee;
-	background: #373233;
+	color: #605e5e;
+	background: #fff;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
@@ -861,14 +861,14 @@ call-to-action .button {
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
-	color: #fff;
-	background-color: #11ABB0;
+	color: #605e5e;
+	background-color: #fff;
 }
 #contact button.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-   background: #0D0D0D;
+   background: #605e5e;
 	border: none;
    cursor: pointer;
    height: auto;
@@ -877,8 +877,8 @@ call-to-action .button {
    margin-left: 26%;
 }
 #contact button.submit:hover {
-	color: #0D0D0D;
-	background: #fff;
+	color: #605e5e;
+	background: #fff1c4;
 }
 #contact span.required {
 	color: #11ABB0;
@@ -886,14 +886,14 @@ call-to-action .button {
 }
 #message-warning, #message-success {
    display: none;
-	background: #0F0F0F;
+	background: #fff1c4;
 	padding: 24px 24px;
 	margin-bottom: 36px;
    width: 65%;
    margin-left: 26%;
 }
-#message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-warning { color: #605e5e; }
+#message-success { color: #605e5e; }
 
 #message-warning i,
 #message-success i {
@@ -921,7 +921,7 @@ call-to-action .button {
 }
 #twitter li b a {
    font: 13px/36px fairplex-wide', serif;
-   color: #474747 !important;
+   color: #605e5e !important;
    border: none;
 }
 
@@ -933,7 +933,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fde64b;
    font-size: 14px;
    text-align: center;
    position: relative;
