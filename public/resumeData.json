@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Michelle Austin",
-    "occupation":"Data Scientist",
+    "occupation":"software professional",
     "description":"curious, creative, driven",
     "image":"michelle1.jpg",
-    "bio":"I've been working in the software industry since 2012 as a Technical Project Manager and Business Analyst. In 2018 I learned to code and fell in love with Data Science and Machine Learning. Professionally, my interests lie in Deep Learning and Computer Vision. When I'm not learning more about computers, I do yoga and work on digital art projects.",
+    "bio":"I've been working in the software industry since 2012 as a Technical Project Manager and Business Analyst. In 2018 I learned to code and fell in love with machine learning. Professionally, my interests lie in deep learning, computer vision and improving the world through better software. When I'm not learning something new about computers, I love exploring London, practicing yoga and working on digital art projects.",
     "contactmessage":"I'd love to hear from you!",
     "email": "michelletoelle@gmail.com",
     "phone": "+44 7389062562",
@@ -55,19 +55,27 @@
         "company":"Cisco Systems (contractor)",
         "title":"Technical Project Manager",
         "years":"June 2014 - December 2017",
-        "description":"Wearer of many hats, notably: program management for Cisco Global Events software migration, solution architecture, team lead/mentor"
+        "description":"Wearer of many hats, notably: program management for Cisco Global Events software migration, solution architecture, managing vendor integrations."
       },
       {
         "company":"ITN International ",
         "title":"Senior Project Manager",
         "years":"August 2013 - May 2014",
-        "description":"Managing software build, implementation, and onsite execution of corporate events for large corporate conferences."
+        "description":"Managing software build, implementation, and onsite execution of large corporate technology conferences."
       },
       {
         "company":"Lanyon ",
         "title":"Business Analyst",
         "years":"May 2012 - July 2013",
-        "description":"Working with clients and internal devleopment teams to configure and build custom software solutions for large corporate conferences (1.5k-30k attendees). "
+        "description":"Working with clients and internal devleopment teams to configure and build custom software solutions for large corporate technology conferences (1.5k-30k attendees). "
+      }
+    ],
+    "publications": [
+      {
+        "title": "Entrepreneurial Role-Model Exposure, Self-Efficacy, and Women's Entrepreneurial Intentions",
+        "journal": "Journal of Career Development",
+        "issue": "Volume 43, Issue 3, June 2016",
+        "authors": "Michelle J. Austin & Margaret M. Nauta"
       }
     ],
     "skills":[
@@ -96,7 +104,7 @@
         "level":"5%"
       },
       {
-        "name":"Photoshop/Illustrator",
+        "name":"Photoshop",
         "level":"20%"
       }
     ]
